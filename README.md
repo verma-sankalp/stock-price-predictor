@@ -136,5 +136,5 @@ python tests/test_stock_predictor.py
 
 ##  Contact
 
-For questions or support, please open an issue in the repository.
+For questions or support, please open an issue in the repository
 or you can directly contact me on Email - sankalpverma2111@gmail.com
